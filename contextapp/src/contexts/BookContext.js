@@ -7,7 +7,7 @@ const BookContextProvider = props => {
     { id: 1, title: "Book one" },
     { id: 2, title: "Book two" },
     { id: 3, title: "Book three" },
-    { id: 4, title: "Book four" }
+    { id: 4, title: "Book four" },
   ]);
 
   return (
